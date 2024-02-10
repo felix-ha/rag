@@ -1,0 +1,21 @@
+
+### tinyllama  
+#{ask_llm(prompt, model="tinyllama")}
+
+### phi  
+#{ask_llm(prompt, model="phi:chat")}
+
+### llama2
+#{ask_llm(prompt, model="llama2")}
+
+### vicuna
+{ask_llm(prompt, model="vicuna")}
+
+### mistral
+{ask_llm(prompt, model="mistral:instruct")}
+
+### mistral-openorca 
+{ask_llm(prompt, model="mistral-openorca")}
+
+### neural-chat   
+{ask_llm(prompt, model="neural-chat")}
